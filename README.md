@@ -1,2 +1,2 @@
 # rxn
-RXN
+RXN Communications content repository
